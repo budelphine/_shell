@@ -1,5 +1,5 @@
 # _shell
-*My own little shell like bash or zsh*
+*Group project. Little shell like bash or zsh*
 
 **Task**   
 *This is a group project where I developed a parser and implemented the story of the commands.*
