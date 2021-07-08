@@ -31,4 +31,5 @@ Do ```make``` and welcome to our shell:
 - [x] - Pipe's work like in bash
 - [x] - Signal's (ctrl+d, ctrl+c) work like in bash
 - [x] - No leak's
-
+   
+![shell.gif](https://github.com/budelphine/_shell/blob/main/shell.gif)
